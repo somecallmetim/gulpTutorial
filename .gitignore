@@ -3,3 +3,7 @@ node_modules
 .tmp
 .sasse-cache
 builds/**/images/*
+.idea/
+builds/development/css/
+builds/development/images/
+builds/production/
