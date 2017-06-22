@@ -4,6 +4,4 @@ node_modules
 .sasse-cache
 builds/**/images/*
 .idea/
-builds/development/css/
-builds/development/images/
-builds/production/
+
